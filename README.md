@@ -17,3 +17,6 @@ The application leverages the power of React components and hooks to manage dyna
 - **Frontend**: React, Tailwind CSS
 - **State Management**: React Hooks
 - **Responsive Design**: Mobile-first, fully responsive layout
+
+![Mobile](https://github.com/user-attachments/assets/6c930291-d5ef-4b4f-a1a9-c8143489b127)
+![Desktop](https://github.com/user-attachments/assets/07a00c61-78cc-46b3-87cc-a410f6885448)
